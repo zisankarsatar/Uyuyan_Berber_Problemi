@@ -4,7 +4,7 @@
 
 > Semafor ve thread kullanımı ile proses yönetimi anlatılmak istenmiştir.
 
-### ✨ [YouTube Video Anlatım](https://youtu.be/hvvj_MowJO0)
+### ✨ [YouTube Video Anlatım](https://www.youtube.com/watch?v=i97V1MjKVU8)
 [![Demo](https://user-images.githubusercontent.com/31216880/82133514-c5d3df80-97f5-11ea-8b60-239d4502fefc.png)](https://youtu.be/hvvj_MowJO0)
 
 
